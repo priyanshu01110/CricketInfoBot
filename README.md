@@ -37,3 +37,9 @@ streamlit run app.py
 The user enters a cricket-related query into the input box on the UI.
 The AI bot processes the query using Generative AI to understand and generate the most relevant response.
 The bot then returns the cricket information (e.g., rules about cricket,terminologies,etc) based on the user's query.
+
+
+https://github.com/user-attachments/assets/155d4a8c-c707-42b8-b234-51bd644cac89
+
+ Above's a video demonstration presenting this
+
