@@ -1,7 +1,7 @@
 ``` linux/wsl
 ```
 # CricketInfoBot 
-This project allows users to get real-time cricket information simply by typing their queries. Whether you're looking for match updates, player stats, or any cricket-related data, this AI-powered bot provides relevant information quickly and efficiently. The project leverages Generative AI technologies to process and answer cricket queries interactively.
+This project allows users to get cricket information simply by typing their queries. Whether you're looking for terminologies explanation,some unexplained rules in cricket, this AI-powered bot provides relevant information quickly and efficiently. The project leverages Generative AI technologies to process and answer cricket queries interactively. This project is thus made for cricket nerds like me who want every little particular detail presented to them by help of queries.
 
 ## Inspiration
 This project was built as part of my learning journey through DSG IIT Roorkee's Bootcamp, where I explored various applications of AI and machine learning. The bootcamp provided me with the skills and knowledge needed to build this project.
